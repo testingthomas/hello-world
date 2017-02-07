@@ -1,2 +1,3 @@
 # hello-world
-Testing GitHub
+
+This is the documentation for the `hello-world` package.
